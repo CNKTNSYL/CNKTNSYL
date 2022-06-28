@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![matrix gif](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
+----
+[![image](https://r.resimlink.com/_N3yZ8wLoQbv.gif)](https://resimlink.com/_N3yZ8wLoQbv.gif)
+
+
 <h1 align="center">Hi 👋, Call me CENK</h1>
 <h3 align="center">Everyone calls me Cenk, I'm a mechanical engineer. But not just a mechanical engineer :)</h3>
 
@@ -28,6 +31,7 @@ Here are some ideas to get you started:
 <p align="center">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnktnsyl&show_icons=true&theme=tokyonight&title_color=002aff&text_color=bbff00&bg_color=757575&locale=en" alt="cnktnsyl" /></p>
 
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnktnsyl&show_icons=true&theme=tokyonight&title_color=002aff&text_color=bbff00&bg_color=757575&locale=en" alt="cnktnsyl" /></p>
 
