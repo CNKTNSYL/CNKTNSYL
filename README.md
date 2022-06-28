@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ----
 ![matrix gif](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
-
+![helloworld](https://rishavanand.github.io/static/images/greetings.gif)
 
 <h1 align="center">Hi 👋, Call me CENK</h1>
 <h3 align="center">Everyone calls me Cenk, I'm a mechanical engineer. But not just a mechanical engineer :)</h3>
